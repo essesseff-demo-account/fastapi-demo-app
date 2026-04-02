@@ -49,7 +49,7 @@ def home():
 </head>
 <body>
     <div class="container">
-        <h1>Hello World FastAPI!</h1>
+        <h1>This is a demo FastAPI essesseff app</h1>
         <div class="info">
             <p><strong>Environment:</strong> <span class="env">{ENVIRONMENT}</span></p>
             <p><strong>Version:</strong> {VERSION}</p>
